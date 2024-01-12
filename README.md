@@ -1,6 +1,8 @@
 # Fractional Order Differential Equations Solver
 
-This repository contains the unofficial MATLAB implementation of the algorithm presented in the paper ["A Predictor-Corrector Scheme For Solving Nonlinear Delay Differential Equations Of Fractional Order"](https://www.naturalspublishing.com/download.asp?ArtcID=1869) by Bhalekar and Daftardar-Gejji. The codebase is divided into three folders, corresponding to examples from Section 4 of the paper, titled "example1", "example2", and "example3".
+This repository contains the unofficial MATLAB implementation of the algorithm presented in the paper ["A Predictor-Corrector Scheme For Solving Nonlinear Delay Differential Equations Of Fractional Order"](https://www.naturalspublishing.com/download.asp?ArtcID=1869) by Bhalekar and Daftardar-Gejji. 
+
+The codebase is divided into three folders, corresponding to examples from Section 4 of the paper, titled "example1", "example2", and "example3".
 
 ## Description
 
